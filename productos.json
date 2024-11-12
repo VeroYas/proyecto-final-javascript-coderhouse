@@ -1,0 +1,8 @@
+[
+    { "id": 1, "nombre": "Aretes Flor", "precio": 8, "imagen": "./assets/img/arete1.jpg" },
+    { "id": 2, "nombre": "Aretes Rombo", "precio": 8, "imagen": "./assets/img/arete2.jpg" },
+    { "id": 3, "nombre": "Adorno Navideño - Bombillos", "precio": 10, "imagen": "./assets/img/navidad2024.jpg" },
+    { "id": 4, "nombre": "Adorno Navideño - Gatos", "precio": 10, "imagen": "./assets/img/gatos.jpg" },
+    { "id": 5, "nombre": "Flores - Rosas", "precio": 6, "imagen": "./assets/img/promo.jpg" },
+    { "id": 6, "nombre": "Flores - Girasoles", "precio": 9, "imagen": "./assets/img/gira.jpg" }
+]
